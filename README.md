@@ -1,6 +1,7 @@
 # agoda_github_information_test
 
 you need to run
+
 python github_watcher.py
 
 then follow the instruction
